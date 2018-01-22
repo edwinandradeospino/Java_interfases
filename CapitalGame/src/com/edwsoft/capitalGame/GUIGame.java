@@ -17,8 +17,8 @@ public class GUIGame extends GameMath {
 		} catch (Exception e) {
 		
 		}
-		
-		
 	}
-	
+	public void methodeFils() {
+		System.out.println("estoy en la clase hija");
+	}
 }
